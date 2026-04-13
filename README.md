@@ -9,5 +9,7 @@ ai 빅데이터 석사 전공생의 논문 작성기
 - 지피티의 심층리서치가 초안을 잡는데 많은 도움이 되고 있다.
 - 참고자료는 클로드와 함께 이해하고 있다. 논문읽기는 클로드!!!
 - 제미나이가 다음처럼 추천해주었다. 이렇게 해보기는 할 텐데 다른 방식으로 될 수도...
+    - <img width="1000" alt="Gemini_Generated_Image_gfn9kugfn9kugfn9" src="https://github.com/user-attachments/assets/ba8048f5-aef6-48cf-b166-263a658e1c17" />
+
 
 
